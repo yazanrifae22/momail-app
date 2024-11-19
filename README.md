@@ -19,8 +19,7 @@ Check out some screenshots of Momail in action:
 ![Screenshot 2](screenshots/SS2.jpg)
 ![Screenshot 3](screenshots/SS3.jpg)
 ![Screenshot 4](screenshots/SS4.jpg)
-![Screenshot 5](screenshots/SS5.jpg)
-![Screenshot 6](screenshots/SS6.jpg)
+
 
 ## Technologies Used
 
